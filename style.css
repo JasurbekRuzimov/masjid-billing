@@ -58,9 +58,6 @@ p {
     transition: background 0.3s;
     font-family: 'Montserrat', sans-serif;
 }
-.img{
-    width: 70%;
-}
 .btn img {
     margin-right: 10px;
     width: 50px;
